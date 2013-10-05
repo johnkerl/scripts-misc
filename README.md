@@ -4,7 +4,7 @@ scripts-misc
 Miscellaneous scripts accumulated over the years, not as central as the ones in
 http://github.com/johnkerl/scripts.
 
-Windows workalikes for familiar Unix tools:
+Windows workalikes for familiar Unix tools, from back in my NT days:
 * grep.pl
 * head.pl
 * tail.pl
